@@ -1,3 +1,7 @@
+# nazwa funkcji: znajdz_index_minimalny
+# parametry wejsciowe: start_index - index miejca w tablicy w ktorym jest najnowsza posortowana liczba
+# wartosc zwracana: index_min - zwraca index na ktorym miejscu jest najnizsza liczba w tablicy
+
 class Sort():
     def __init__(self, array):
         self.array = array
