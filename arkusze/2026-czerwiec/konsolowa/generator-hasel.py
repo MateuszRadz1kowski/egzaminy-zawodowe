@@ -7,6 +7,11 @@ numbers = "0123456789"
 special_characters = "!@#$%^&*()_+"
 avalible_characters = ["small_letters","small_letters", "small_letters", "capital_letters", "capital_letters", "capital_letters", "diactric_letters", "diactric_letters", "numbers", "numbers", "special_characters", "special_characters" ]
 
+#nazwa funkcji: generate_password
+#opis funkcji: funkcja generuje losowe hasło, ilość danego typu znaku np małe litery jest zgodna z wymaganiami
+#parametry: brak
+#zwracany typ i opis: zwraca string random_password czyli wygenerowane losowe hasło zgodnie z wymaganiami
+#autor: 0000000000
 def generate_password():
     random_password = ""
     for i in range(len(avalible_characters)):
