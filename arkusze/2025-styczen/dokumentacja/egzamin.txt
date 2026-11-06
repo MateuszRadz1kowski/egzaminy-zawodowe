@@ -1,0 +1,6 @@
+Nazwa systemu operacyjnego: Windows 11
+Nazwy srodowisk programistycznych:
+    - Visual Studio Code
+Nazwy jezykow programowania:
+    - Python
+    - JavaScript
