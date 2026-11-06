@@ -1,0 +1,4 @@
+Nazwa systemu operacyjnego: Windows 11
+Nazwa środowiska programistycznego: Android Studio
+Nazwa emulatora dla aplikacji mobilnej: Medium Phone API 36.1
+Nazwa jezyka programowania: Kotlin
