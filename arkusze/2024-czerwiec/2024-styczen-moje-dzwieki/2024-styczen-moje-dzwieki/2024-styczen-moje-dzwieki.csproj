@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>_2024_styczen_moje_dzwieki</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\obraz.png" />
+    <None Remove="Images\obraz2.png" />
+    <None Remove="Images\obraz3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\obraz.png" />
+    <Resource Include="Images\obraz2.png" />
+    <Resource Include="Images\obraz3.png" />
+  </ItemGroup>
+
+</Project>
